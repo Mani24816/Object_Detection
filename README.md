@@ -4,7 +4,6 @@
 
 A simple and intuitive desktop application for object detection using the **YOLOv8** model with a stylish GUI built using **Tkinter** and enhanced with animations. Easily select an image and get annotated object predictions in one click.
 
-![Detection Screenshot](results.jpg)
 
 ---
 
